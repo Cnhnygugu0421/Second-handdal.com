@@ -1,0 +1,35 @@
+body{
+    width: 80vmax;
+    margin: 0 auto;
+}
+.banner{
+    background-color: rgb(118, 70, 180);
+    color:white;
+
+}
+.banner>h1{
+    margin-top: 0;
+    padding-top: 15px;
+}
+.banner a:link {
+    text-decoration:none;
+    color:white}
+    .banner a:visited {
+        text-decoration:none;
+        color:white;}
+    .banner a:hover {
+        text-decoration:none;
+        color: yellow;}
+    .bannera:active {
+        text-decoration:none;
+        color: yellow;}
+    
+    a:link {color:blue}
+    a:visited {color:blue;}
+    a:hover {color: blueviolet;}
+    a:active {color:blueviolet;}
+    .primary-nav>a{
+        color: white;
+        padding: 15px;
+    
+    }
